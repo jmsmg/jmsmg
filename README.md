@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 
-https://img.shields.io/badge/-Python-000000?style=flat&logo=Python
+<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
+<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
+
 <!--
 **jmsmg/jmsmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
