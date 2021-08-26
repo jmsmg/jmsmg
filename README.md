@@ -2,10 +2,9 @@
 
 
 <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
-<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
-<img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
+<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/><img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/><img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+
 <img src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=Amazon AWS"/>
-<img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
 
 <!--
 **jmsmg/jmsmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
