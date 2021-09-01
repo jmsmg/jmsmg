@@ -1,8 +1,12 @@
 ### Hi there 👋
+<a href="mailto:jmsmg1@me.com" target="_blank"><img src="https://img.shields.io/badge/jmsmg1@me.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
-
-<img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
-<img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/><img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/><img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+<p>
+  <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
+  <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
+  <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
+  <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+</p>  
 
 <img src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=Amazon AWS"/>
 
