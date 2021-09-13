@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![snake gif](https://github.com/[GitHub 아이디]/[GitHub 아이디]/blob/output/github-contribution-grid-snake.svg)
+
 <a href="mailto:jmsmg1@me.com" target="_blank"><img src="https://img.shields.io/badge/jmsmg1@me.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
 <p>
