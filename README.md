@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake gif](https://github.com/jmsmg/jmsmg/blob/output/github-contribution-grid-snake.svg)
+
 
 <a href="mailto:jmsmg1@me.com" target="_blank"><img src="https://img.shields.io/badge/jmsmg1@me.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
 
@@ -14,9 +14,12 @@
 <img src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=Amazon AWS"/>
 
 
-![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 ![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)
+
+![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![snake gif](https://github.com/jmsmg/jmsmg/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **jmsmg/jmsmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
