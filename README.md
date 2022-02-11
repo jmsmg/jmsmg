@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-
-
-<a href="mailto:jmsmg1@me.com" target="_blank"><img src="https://img.shields.io/badge/jmsmg1@me.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
-
 <p>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
   <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
