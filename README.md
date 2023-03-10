@@ -1,14 +1,16 @@
 ### Hi there 👋
 
 <p>
+  <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
   <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
   <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
   <img src="https://img.shields.io/badge/-Django-000000?style=flat&logo=Django"/>
+  <img src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=Amazon AWS"/>
 </p>  
-
-<!-- <img src="https://img.shields.io/badge/-Amazon AWS-000000?style=flat&logo=Amazon AWS"/> -->
-
+<p>
+  <img src="https://img.shields.io/badge/-42 Seoul-000000?style=flat&logo=42"/>
+</p>
 <!-- ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
 <!-- ![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) -->
