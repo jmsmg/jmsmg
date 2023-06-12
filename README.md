@@ -16,7 +16,7 @@
 ## Education.
 
 ### 42Seoul 본과정 (2023.03.13 ~)
-
+[![seonggoc's 42 stats](https://badge42.vercel.app/api/v2/clf6eu6z400060gmc328vyblo/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 ### 42Seoul 9기 1차 La Piscine (2023.01.09 ~ 2023.02.03)
 
