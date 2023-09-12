@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
@@ -39,19 +39,4 @@
 <!-- ![사용 언어 순위](https://github-readme-stats.vercel.app/api/top-langs/?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact) -->
 <!-- <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jmsmg"> -->
 
-![snake gif](https://github.com/jmsmg/jmsmg/blob/output/github-contribution-grid-snake.svg)
-
-<!--
-**jmsmg/jmsmg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![snake gif](https://github.com/jmsmg/jmsmg/blob/output/github-contribution-grid-snake.svg) -->
