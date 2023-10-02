@@ -2,6 +2,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/-C-000000?style=flat&logo=C"/>
+  <img src="https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B"/>
   <img src="https://img.shields.io/badge/-Python-000000?style=flat&logo=Python"/>
   <img src="https://img.shields.io/badge/-Tensorflow-000000?style=flat&logo=Tensorflow"/>
   <img src="https://img.shields.io/badge/-Keras-000000?style=flat&logo=Keras"/>
