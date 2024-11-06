@@ -14,7 +14,6 @@
 ## Education.
 
 ### 42Seoul 본과정 (2023.03.13 ~)
-[![seonggoc's 42 stats](https://badge42.vercel.app/api/v2/clf6eu6z400060gmc328vyblo/stats?cursusId=21&coalitionId=86)](https://github.com/JaeSeoKim/badge42)
 
 - [42Seoul 공통 과정 프로젝트 (2023.03.13 ~ 2024.10.11)](https://github.com/jmsmg/42Seoul)
 
@@ -22,12 +21,12 @@
 
 - Linux Shell 기본, C 언어, 알고리즘 등
 
-### 멋쟁이 사자처럼 인공지능 통합과정
+<!-- ### 멋쟁이 사자처럼 인공지능 통합과정
 (2021.05.31~2021.08.13)
 
 - Python 기반 EDA, Scraping, ML, DL, Web Development 등 수학
 - 2개의 Project, 3개의 Semi-Project 진행
-
+-->
 ## Certification.
 
 - [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
