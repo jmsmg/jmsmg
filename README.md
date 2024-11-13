@@ -11,8 +11,6 @@
   <img src="https://img.shields.io/badge/-42 Seoul-000000?style=flat&logo=42"/>
 </p>
 
-[![seonggoc's 42 stats](https://badge.mediaplus.ma/darkblue/seonggoc)](https://github.com/oakoudad/badge42)
-
 ## Education.
 
 ### 42Seoul 본과정 (2023.03.13 ~)
@@ -35,6 +33,8 @@
 
 - [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
 - SQLD
+
+[![seonggoc's 42 stats](https://badge.mediaplus.ma/darkblue/seonggoc)](https://github.com/oakoudad/badge42)
 
 <!-- ![깃허브 스탯](https://github-readme-stats.vercel.app/api?username=jmsmg&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) -->
 
