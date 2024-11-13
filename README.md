@@ -11,12 +11,15 @@
   <img src="https://img.shields.io/badge/-42 Seoul-000000?style=flat&logo=42"/>
 </p>
 
+[![seonggoc's 42 stats](https://badge.mediaplus.ma/darkblue/seonggoc)](https://github.com/oakoudad/badge42)
+
 ## Education.
 
 ### 42Seoul 본과정 (2023.03.13 ~)
 
 - 컴퓨터 공학
 - [42Seoul 공통 과정 프로젝트 (2023.03.13 ~ 2024.10.11)](https://github.com/jmsmg/42Seoul)
+
 
 ### 42Seoul 9기 1차 La Piscine (2023.01.09 ~ 2023.02.03)
 
