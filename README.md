@@ -1,5 +1,3 @@
-[![seonggoc's 42 stats](https://badge.mediaplus.ma/darkblue/seonggoc)](https://github.com/oakoudad/badge42)
-
 ## Education.
 
 ### 42Seoul 본과정 (2023.03.13 ~)
