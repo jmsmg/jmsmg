@@ -26,6 +26,7 @@
 <details>
 <summary>42Seoul Outer Circle</summary>
 <div markdown="1">
+
 - [computorv1](https://github.com/jmsmg/computorv1)
   - 다항식 계산 프로그램
 </div>
