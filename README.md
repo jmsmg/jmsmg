@@ -21,12 +21,22 @@
 - SQLD
 
 ## Project.
+
+
+<details>
+<summary>42Seoul Outter Circle</summary>
+<div markdown="1">
+- [computorv1](https://github.com/jmsmg/computorv1)
+  - 다항식 계산 프로그램
+</div>
+</details>
+
 <details>
 <summary>42Seoul Common Core</summary>
 <div markdown="1">
 
 - [ft_transcendence](https://github.com/pingpongpangpong/transcendence)
-  - 웹사이트 제작 프로젝트
+  - Pong 게임 웹사이트 제작 프로젝트
 
 - [inception](https://github.com/jmsmg/inception)
   - Docker를 활용하여 환경 구성 프로젝트
