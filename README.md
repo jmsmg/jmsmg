@@ -28,7 +28,7 @@
 <div markdown="1">
 
 - [libasm](https://github.com/jmsmg/libasm)
-  - 다항식 계산 프로그램
+  - x86 어셈블리를 통한 C 라이브러리 구현
 </div>
 </details>
 
