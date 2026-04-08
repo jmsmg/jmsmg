@@ -19,6 +19,7 @@
 
 - [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
 - SQLD
+- 리눅스마스터 2급
 
 ## Project.
 
