@@ -15,6 +15,9 @@
 - Python 기반 EDA, Scraping, ML, DL, Web Development 등 수학
 - 2개의 Project, 3개의 Semi-Project 진행
 
+## Awards.
+- 2025년 식의약 공공데이터 분석 활용 경진대회 장려상
+
 ## Certification.
 
 - [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
