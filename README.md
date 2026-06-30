@@ -21,6 +21,7 @@
 ## Certification.
 
 - [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
+- [42 Cursus](https://www.credly.com/badges/be30a94a-6bb1-42bd-9db2-fd558f23e861/)
 - SQLD
 - 리눅스마스터 2급
 
