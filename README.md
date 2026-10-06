@@ -1,3 +1,18 @@
+## Open Source.
+
+### [Chromium](https://chromium-review.googlesource.com/q/owner:jmsmg1@me.com)
+
+- storage/sql 마이그레이션, payments manifest 처리, 만료된 flag · histogram 정리
+
+### [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)
+
+- bluez5 모듈이 응답을 기대하지 않는 D-Bus 호출에 응답하던 문제 수정
+- 어댑터 제거 시 use-after-free 크래시 수정 2건을 1.6 안정 브랜치로 백포트
+
+### [BlueZ](https://github.com/bluez/bluez/commits?author=jmsmg)
+
+- mpris-proxy가 stdout을 flush하지 않아 저널 로그가 늦게 기록되던 문제 수정
+
 ## Education.
 
 ### [42Seoul](https://42seoul.kr/) 본과정 (2023.03.13 ~)
