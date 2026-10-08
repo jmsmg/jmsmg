@@ -4,6 +4,10 @@
 
 - storage/sql 마이그레이션, payments manifest 처리, 만료된 flag · histogram 정리
 
+### [web-platform-tests (WPT)](https://github.com/web-platform-tests/wpt/commits?author=jmsmg)
+
+- payment-method-manifest Link 헤더가 여러 개일 때 fetch 중단을 기대하던 테스트를 첫 번째 링크를 쓰는 스펙 동작에 맞게 수정
+
 ### [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)
 
 - bluez5 모듈이 응답을 기대하지 않는 D-Bus 호출에 응답하던 문제 수정
