@@ -33,7 +33,6 @@
 ### 멋쟁이 사자처럼 인공지능 통합과정 (2021.05.31 ~ 2021.08.13)
 
 - Python 기반 EDA, Scraping, ML, DL, Web Development 등 수학
-- 2개의 Project, 3개의 Semi-Project 진행
 
 ## Awards.
 - 2025년 식의약 공공데이터 분석 활용 경진대회 장려상
@@ -42,10 +41,9 @@
 
 - 정보처리기사
 - 리눅스마스터 2급
-- [42 Cursus](https://www.credly.com/badges/be30a94a-6bb1-42bd-9db2-fd558f23e861/)
+- [42 Cursus Lv. 10](https://www.credly.com/badges/be30a94a-6bb1-42bd-9db2-fd558f23e861/)
 - SQLD
-- [AWS Solutions Architect : Associate(2022. 03. 21)](https://www.credly.com/badges/cd70b973-fb4a-43e7-8dc5-5e84038f00b9/public_url)
-
+- AWS Solutions Architect : Associate
 ## Project.
 
 
