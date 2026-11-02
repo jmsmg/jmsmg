@@ -1,9 +1,9 @@
 ## Open Source.
 
-- **[Chromium](https://chromium-review.googlesource.com/q/owner:jmsmg1@me.com)** — storage/sql 마이그레이션, payments manifest 처리, 만료된 flag · histogram 정리
-- **[web-platform-tests](https://github.com/web-platform-tests/wpt/commits?author=jmsmg)** — payment-method-manifest 테스트를 스펙에 맞게 수정
-- **[PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)** — bluez5 D-Bus 응답 버그 수정, use-after-free 수정 2건 1.6 백포트
-- **[BlueZ](https://github.com/bluez/bluez/commits?author=jmsmg)** — mpris-proxy 저널 로그 지연 수정
+- **[Chromium](https://chromium-review.googlesource.com/q/owner:jmsmg1@me.com)** — Chrome · Edge · Whale의 기반이 되는 오픈소스 브라우저
+- **[web-platform-tests](https://github.com/web-platform-tests/wpt/commits?author=jmsmg)** — 주요 브라우저가 함께 쓰는 웹 표준 테스트 모음
+- **[PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)** — 리눅스 오디오 · 비디오 서버
+- **[BlueZ](https://github.com/bluez/bluez/commits?author=jmsmg)** — 리눅스 공식 블루투스 스택
 
 ## Activities.
 
