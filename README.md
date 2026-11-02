@@ -1,45 +1,23 @@
 ## Open Source.
 
-### [Chromium](https://chromium-review.googlesource.com/q/owner:jmsmg1@me.com)
-
-- storage/sql 마이그레이션, payments manifest 처리, 만료된 flag · histogram 정리
-
-### [web-platform-tests (WPT)](https://github.com/web-platform-tests/wpt/commits?author=jmsmg)
-
-- payment-method-manifest Link 헤더가 여러 개일 때 fetch 중단을 기대하던 테스트를 첫 번째 링크를 쓰는 스펙 동작에 맞게 수정
-
-### [PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)
-
-- bluez5 모듈이 응답을 기대하지 않는 D-Bus 호출에 응답하던 문제 수정
-- 어댑터 제거 시 use-after-free 크래시 수정 2건을 1.6 안정 브랜치로 백포트
-
-### [BlueZ](https://github.com/bluez/bluez/commits?author=jmsmg)
-
-- mpris-proxy가 stdout을 flush하지 않아 저널 로그가 늦게 기록되던 문제 수정
+- **[Chromium](https://chromium-review.googlesource.com/q/owner:jmsmg1@me.com)** — storage/sql 마이그레이션, payments manifest 처리, 만료된 flag · histogram 정리
+- **[web-platform-tests](https://github.com/web-platform-tests/wpt/commits?author=jmsmg)** — payment-method-manifest 테스트를 스펙에 맞게 수정
+- **[PipeWire](https://gitlab.freedesktop.org/pipewire/pipewire/-/merge_requests?scope=all&state=merged&author_username=jmsmg)** — bluez5 D-Bus 응답 버그 수정, use-after-free 수정 2건 1.6 백포트
+- **[BlueZ](https://github.com/bluez/bluez/commits?author=jmsmg)** — mpris-proxy 저널 로그 지연 수정
 
 ## Activities.
 
-- [Hacktoberfest Seoul 2026 Chromium 멘토](https://jmsmg.github.io/hacktoberfest-seoul-2026-chromium/)
+- **Chromium 멘토** — [Hacktoberfest Seoul 2026](https://hacktoberfestkorea.com/)
 
 ## Education.
 
-### 42Seoul 9기 (2023.03.13 ~)
-
-- 42Seoul 심화 과정 프로젝트 (2024.10.12 ~ )
-- [42Seoul 공통 과정 프로젝트 (2023.03.13 ~ 2024.10.11)](#Project)
-
-### 오픈소스 컨트리뷰션 아카데미 
-
-- 참여형 Chromium 기여 (2026.07.11 ~ )
-
-- 체험형 2차 Ubuntu 한글화 번역기여 (2025.09 ~  2025.10)
-
-### 멋쟁이 사자처럼 인공지능 통합과정 (2021.05.31 ~ 2021.08.13)
-
-- Python 기반 EDA, Scraping, ML, DL, Web Development 등 수학
+- 42Seoul 9기 (2023.03 ~) — 공통 과정 완료, 심화 과정 중
+- 오픈소스 컨트리뷰션 아카데미 — 참여형 Chromium (2026), 체험형 Ubuntu 한글화 (2025)
+- 멋쟁이사자처럼 인공지능 통합과정 (2021)
 
 ## Awards.
-- 2025년 식의약 공공데이터 분석 활용 경진대회 장려상
+
+- **장려상** — 식의약 공공데이터 분석 활용 경진대회 (2025)
 
 ## Certification.
 
