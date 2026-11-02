@@ -17,6 +17,10 @@
 
 - mpris-proxy가 stdout을 flush하지 않아 저널 로그가 늦게 기록되던 문제 수정
 
+## Activities.
+
+- [Hacktoberfest Seoul 2026 Chromium 멘토](https://jmsmg.github.io/hacktoberfest-seoul-2026-chromium/)
+
 ## Education.
 
 ### 42Seoul 9기 (2023.03.13 ~)
