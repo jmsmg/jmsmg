@@ -7,7 +7,7 @@
 
 ## Activities.
 
-- **Chromium 멘토** — [Hacktoberfest Seoul 2026](https://hacktoberfest.com/)
+- **[Chromium 멘토](https://hacktoberfest.com/)** — Hacktoberfest Seoul 2026
 
 ## Education.
 
